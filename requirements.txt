@@ -16,7 +16,7 @@ tensorboard>=2.4.1
 # Tracking ------------------------------------
 filterpy
 scikit-image
-python3-tk
+tk
 #Dashboard
 streamlit
 
